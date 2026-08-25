@@ -14,7 +14,9 @@ To design a simple wireframe for a generic application using Balsamiq, including
 8.Review the wireframe and make necessary changes for clarity and usability.
 ```
 ## Output:
-<img width="926" height="383" alt="Screenshot 2026-08-25 231553" src="https://github.com/user-attachments/assets/5f065a90-7676-47b9-b996-71b778c30f6f" />
+
+<img width="926" height="383" alt="Screenshot 2026-08-25 231553" src="https://github.com/user-attachments/assets/b523e309-6cbc-485b-8a6b-2592ba35514c" />
+
 
 ## Result:
 The wireframe of a generic application was successfully designed in Balsamiq with five essential screens. The design clearly represents the navigation and basic user interaction flow from Welcome → Login/Signup → Home → Listing → Final Action.
